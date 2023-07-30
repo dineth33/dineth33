@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @dineth33
-- 👀 I’m interested in data science applications in transportation and logistics domains. 
-- 💞️ I’m looking to collaborate on research relating to the ML and DL applications for transportation and logistics 
 - 📫 How to reach me - d.dineth.dananjaya@gmail.com
 
 <!---
